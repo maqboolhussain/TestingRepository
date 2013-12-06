@@ -1,0 +1,10 @@
+Just Testing Example
+<Patient>
+  <name> Ahmad </name>
+  <age> 16 Years </age>
+  <problem> typoid </problem>
+  <Allergies>
+    <Allergy id="1"> Nuts </Allergy>
+    <Allergy id="2"> Eggs </Allergy>
+  <Allergies>
+</Patient>
